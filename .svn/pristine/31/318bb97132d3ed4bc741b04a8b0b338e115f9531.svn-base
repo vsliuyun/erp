@@ -1,0 +1,20 @@
+ #header {
+ 	background-color: #c0ccda;
+ 	height: 60px;
+ 	line-height: 60px;
+ 	padding: 0 20px;
+
+ 	overflow:hidden;
+ 	h1{
+		
+		float:left;
+	}
+	.header_left{
+		float:right;
+		margin-right: 100px;
+		span{
+			display:inline-block;
+			margin-right: 40px;
+		}
+	}
+}
