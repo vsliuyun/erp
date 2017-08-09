@@ -6,9 +6,10 @@
     <div class="main_content">
       <div class="main_left">
         <sideBar></sideBar>
-        <el-button type="primary" icon="arrow-left">上一页</el-button>
       </div>
-      <div class="main_right"><router-view></router-view></div>
+      <div class="main_right">
+          <router-view></router-view>
+      </div>
     </div>
    
   </div>
